@@ -5,7 +5,7 @@
 
             
       Phone: 012 051 3483
-      Web: techperformancecentre.com
+      Web: (techperformancecentre.com)[https://techperformancecentre.com/]
       Address: 13 Umgazi Street,
                Menlopark, Pretoria, 0081
 
