@@ -1,15 +1,8 @@
- **TPC Performance Centre**
+**TPC Performance Centre**
 
-
-─────────────────────────────────────────────
-
-            
-      Phone: 012 051 3483
-      Web: (techperformancecentre.com)[https://techperformancecentre.com/]
-      Address: 13 Umgazi Street,
-               Menlopark, Pretoria, 0081
-
-─────────────────────────────────────────────
+**Phone:** 012 051 3483  
+**Web:** [techperformancecentre.com](https://techperformancecentre.com/)  
+**Address:** 13 Umgazi Street, Menlopark, Pretoria, 0081  
 
 
 # Programming Fundamentals Assessment  
